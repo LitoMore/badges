@@ -6,8 +6,8 @@ Badges for my repositories
 
 ## Badges Wall
 
-![](https://raw.githubusercontent.com/LitoMore/badges/master/badges/paypal-donate.svg)
+![](https://raw.github.com/LitoMore/badges/master/badges/paypal-donate.svg?sanitize=true)
 
 ## License
 
-CC0-1.0 © LitoMore
+CC0-1.0 © [LitoMore](https://github.com/LitoMore)
