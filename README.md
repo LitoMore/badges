@@ -8,6 +8,7 @@ Badges for my repositories
 
 ![](https://raw.github.com/LitoMore/badges/master/badges/paypal-donate.svg?sanitize=true)
 ![](https://raw.github.com/LitoMore/badges/master/badges/telegram.svg?sanitize=true)
+![](https://raw.github.com/LitoMore/badges/master/badges/maofan.svg?sanitize=true)
 
 ## License
 
